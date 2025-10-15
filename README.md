@@ -1,10 +1,3 @@
-<img width="636" height="423" alt="image" src="https://github.com/user-attachments/assets/0b732048-b953-4dac-a027-3368fff04b0c" /># Image-classifier
-Got it 💪 — you mean you want a **professional README.md** file written for your *Image Classification (Happy vs Sad)* project — based on the screenshots and code you shared earlier, right?
-
-Perfect — here’s a clean, polished **README.md** you can copy straight into your GitHub repo 👇
-
----
-
 # 😄 Image Classification – Happy vs Sad
 
 This project demonstrates an end-to-end **Image Classification pipeline** using **TensorFlow** and **Keras**, built to classify facial expressions into *Happy* and *Sad* categories.
@@ -58,7 +51,7 @@ Conv2D → MaxPooling2D → Conv2D → MaxPooling2D → Flatten → Dense → Ou
 | Actual | Predicted | Image                                       |
 | ------ | --------- | ------------------------------------------- |
 | Happy  | Happy     |<img width="636" height="423" alt="image" src="https://github.com/user-attachments/assets/43c4b653-bce8-4cae-8d61-642dac865bc6" />|
-| Sad    | Sad       | (<img width="638" height="429" alt="image" src="https://github.com/user-attachments/assets/ab3af9d5-3a40-4fe7-a57b-db012ecfd62c" />|
+| Sad    | Sad       |<img width="638" height="429" alt="image" src="https://github.com/user-attachments/assets/ab3af9d5-3a40-4fe7-a57b-db012ecfd62c" />|
 
 *(Sample visualization of model predictions and misclassifications.)*
 
