@@ -58,7 +58,8 @@ Conv2D → MaxPooling2D → Conv2D → MaxPooling2D → Flatten → Dense → Ou
 | Actual | Predicted | Image                                       |
 | ------ | --------- | ------------------------------------------- |
 | Happy  | Happy    | ![misclassified sample]() |
-| Happy  | Happy    | ![misclassified sample]() |
+| Sad    | Sad      | ![misclassified sample](<img width="638" height="429" alt="image" src="https://github.com/user-attachments/assets/ab3af9d5-3a40-4fe7-a57b-db012ecfd62c" />
+) |
 
 *(Sample visualization of model predictions and misclassifications.)*
 
